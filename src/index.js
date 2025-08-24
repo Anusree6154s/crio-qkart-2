@@ -22,4 +22,3 @@ mongoose.connect(config.mongoose.url, config.mongoose.options).then(() => {
 }).catch(err => {
   console.error('Error:', err);
 });
-;
