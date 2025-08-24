@@ -14,7 +14,9 @@ const getProductById = async (id) => {
  * @returns {Promise<List<Products>>}
  */
 const getProducts = async () => {
-  return Product.find({});
+  let products = await Product.find()
+  console.log(products)
+  return products;
 };
 
 module.exports = {
