@@ -3,7 +3,6 @@
     <h1 id="title">QKart Backend</h1>
     <p><strong>Backend for QKart - An E-commerce application</strong></p>
     <p>
-      <a href="https://crio-qkart-backend.vercel.app">View QKart Backend</a> •
       <a href="https://crio-qkart-2-frontend.vercel.app">View QKart Frontend</a> •
       <a href="https://crio-qkart-backend.vercel.app/v1/swagger/docs">View API Documentation</a>
     </p>
