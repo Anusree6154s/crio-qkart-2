@@ -3,9 +3,9 @@
     <h1 id="title">QKart Backend</h1>
     <p><strong>Backend for QKart - An E-commerce application</strong></p>
     <p>
-      <a href="https://qkart-backend-2-jlz8.onrender.com/">View QKart Backend</a> •
-      <a href="https://qkart-node-6154.netlify.app/">View QKart Frontend</a> •
-      <a href="https://qkart-backend-2-jlz8.onrender.com/v1/swagger/docs">View API Documentation</a>
+      <a href="https://crio-qkart-backend.vercel.app">View QKart Backend</a> •
+      <a href="https://crio-qkart-2-frontend.vercel.app">View QKart Frontend</a> •
+      <a href="https://crio-qkart-backend.vercel.app/v1/swagger/docs">View API Documentation</a>
     </p>
     <img src="https://github.com/user-attachments/assets/f945686a-d945-462a-ad90-87985d19f40b" width="700"/>
 </div>
